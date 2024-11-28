@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HAND DETECTOR
 
 Este proyecto utiliza Mediapipe para detectar manos y reconocer gestos
@@ -11,6 +10,3 @@ Este proyecto utiliza Mediapipe para detectar manos y reconocer gestos
 
 ## Uso
 Ejecutar el archivo principal: py detectar.py
-=======
-# HandDetector
->>>>>>> 3687b7757eb1663c92339229ca86fe00a1c4932b
